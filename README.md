@@ -1,3 +1,7 @@
+<div align="center"> <img src="https://github.com/mehran-hmdpr/GHEpy/blob/main/GHEpy.png" width="300" height="300" >
+
+<div align="left">
+
 # GHEpy
 **GHEpy** (Greenhouse energy-python) is a python tool for evaluation of heating demand in greenhouses when data are not provided elsewhere. 
 
@@ -89,7 +93,8 @@ To uninstall the package:
   The result would be something like this:
   
   
-  
+  <div align="center"> <img src="  https://github.com/mehran-hmdpr/GHEpy/blob/main/Visualization%20(2).png" width="600" height="400" >
+  <div align="left">
   
  - The last function is `CDFmap` which shows the location of greenhouse and cumulative distribution of greenhouse heating demand. This can help you realize how long your greenhouse needs heating or cooing during a year.
    ```bash
