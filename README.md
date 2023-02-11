@@ -26,7 +26,9 @@
 #### Problem definition
 To estimate the heating demand of a greenhouse **GHEpy** needs parameters like location, dimantions, and inside minimum temperature. The required dimentions for the model are shown below:
 
+<div align="center"> <img src="https://github.com/mehran-hmdpr/GHEpy/blob/main/greenhouse.png" width="600" height="400" >
 
+<div align="left">
           
 #### Problem solution
   
