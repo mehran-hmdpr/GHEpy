@@ -93,7 +93,7 @@ To uninstall the package:
   The result would be something like this:
   
   
-  <div align="center"> <img src="  https://github.com/mehran-hmdpr/GHEpy/blob/main/Visualization%20(2).png" width="600" height="400" >
+  <div align="center"> <img src="https://github.com/mehran-hmdpr/GHEpy/blob/main/Visualization%20(2).png" width="600" height="400" >
   <div align="left">
   
  - The last function is `CDFmap` which shows the location of greenhouse and cumulative distribution of greenhouse heating demand. This can help you realize how long your greenhouse needs heating or cooing during a year.
@@ -113,6 +113,9 @@ To uninstall the package:
 
     ```
     The result would be something like this:
+    <div align="center"> <img src="https://github.com/mehran-hmdpr/GHEpy/blob/main/CDF.png" width="900" height="506" >
+    <div align="left">
+    
 
 
 ## Authors and contributors
