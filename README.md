@@ -50,11 +50,12 @@ Where:
 ### Installing via PIP
 To install the package just type:
 ```bash
-> pip install GHEpy
+> !pip install ghepy
+
 ```
 To uninstall the package:
 ```bash
-> pip uninstall GHEpy
+> !pip uninstall ghepy
 ```
 ## Examples and Tutorials
 
@@ -62,7 +63,7 @@ To uninstall the package:
 - First function is `energymodel` which gives you energy demand of the greenhouse in 8760 hours of a year. To use this function just type:
   ```bash
     >
-    from ghepy import model
+    from GHEpy import model
     token = "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" # Token code that you should get from renewable ninja database
     lat = 52.225121 # latitude
     lon = 36.681990 # longitude
@@ -77,7 +78,7 @@ To uninstall the package:
 - The second funciton is `visualization` which gives you a figure of temperatures and energy demands during a year. An example of the result of this function can be seen here:
   ```bash
     >
-      from ghepy import model
+      from GHEpy import model
       token = "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" # Token code that you should get from renewable ninja database
       lat = 52.225121 # latitude
       lon = 36.681990 # longitude
@@ -99,8 +100,8 @@ To uninstall the package:
  - The last function is `CDFmap` which shows the location of greenhouse and cumulative distribution of greenhouse heating demand. This can help you realize how long your greenhouse needs heating or cooing during a year.
    ```bash
     >
-      from ghepy import model
-      token = "aa643a1899ea2156807425008360759c4853484d" # Token code that you should get from renewable ninja database
+      from GHEpy import model
+      token = "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" # Token code that you should get from renewable ninja database
       lat = 52.225121 # latitude
       lon = 36.681990 # longitude
       T_i = 18 # minimum inside temperature
