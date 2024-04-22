@@ -129,6 +129,11 @@ under the supervision of Prof. Ramin Roshandel.
 
 Contact us by email for further information or questions about **GHEpy**, or suggest pull requests. Contributions improving either the code or the documentation are welcome!
 You can find out more about my projects by visiting my [website](https://mehranahmadpour.mozellosite.com/).
+
+## Cite this package
+If you find this package helpful in your work, please consider citing our research paper:
+Ahmadpour, M., Roshandel, R. & Shafii, M.B. The effect of organic Rankine cycle system design on energy-based agro-industrial symbiosis. Energy Efficiency 17, 39 (2024). https://doi.org/10.1007/s12053-024-10221-0
+   
 ## License
 
 See the [LICENSE](https://github.com/mehran-hmdpr/orcpy/blob/main/LICENSE) file for license rights and limitations (MIT).
